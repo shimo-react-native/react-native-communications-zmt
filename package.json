@@ -1,6 +1,6 @@
 {
-  "name": "react-native-communications-zmt",
-  "version": "1.0.0",
+  "name": "@shimo/react-native-communications-zmt",
+  "version": "1.0.0-shimo.1",
   "description": " communications For React Native ios",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/zhoumeitong/react-native-communications-zmt/issues"
   },
-  "homepage": "https://github.com/zhoumeitong/react-native-communications-zmt#readme"
+  "homepage": "https://github.com/zhoumeitong/react-native-communications-zmt#readme",
+  "publishConfig": {
+    "registry": "http://registry.npm.shimo.run/"
+  }
 }
